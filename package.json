@@ -10,7 +10,7 @@
     "defaults",
     "not IE 11"
   ],
-  "version": "2.6.6",
+  "version": "2.6.7",
   "scripts": {
     "cz": "cz",
     "start": "npm --prefix ./demos run start",

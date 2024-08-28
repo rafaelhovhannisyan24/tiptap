@@ -1,7 +1,7 @@
 {
   "name": "@tiptap/vue-3",
   "description": "Vue components for tiptap",
-  "version": "2.6.6",
+  "version": "2.6.7",
   "homepage": "https://tiptap.dev",
   "keywords": [
     "tiptap",
@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ueberdosis/tiptap",
+    "url": "https://github.com/rafaelhovhannisyan24/tiptap",
     "directory": "packages/vue-3"
   },
   "sideEffects": false,
